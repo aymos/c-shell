@@ -1,6 +1,7 @@
 c-shell
 =======
 
-A simple bash like shell implementation using C with pipelines and redirections.
+A simple bash like shell implementation.
 Handles background and foreground processes,can perform standard IPC operations, like pipes. 
-Also handles file and stream buffers and gives proper perception of bourne shell. 
+Also handles file, stream buffers  and redirections. Gives proper perception of bourne shell. 
+For Educational Purposes only.
